@@ -4,6 +4,9 @@
 
 A full Winamp-style media player rebuilt from scratch as **one self-contained HTML file**: classic skin, real 10-band equalizer, playlist editor, album art, and four music visualizers that actually react to your music. No install, no account, no internet. Your music never leaves your computer.
 
+<h3 align="center">▶️ <a href="https://hardwaremack-prog.github.io/Winamp-Reconstructed/">Play it right now in your browser</a></h3>
+<p align="center">No download needed. Click the link, hit <b>EJECT</b>, pick some MP3s, and go.</p>
+
 <p align="center">
   <img src="screenshots/player.png" alt="WinAmp Reconstructed: main player, equalizer, playlist and album art windows" width="430">
 </p>
@@ -19,6 +22,10 @@ I wanted that feeling back, but in something that runs anywhere today: on my Win
 ---
 
 ## Quick start
+
+**Easiest:** open **[hardwaremack-prog.github.io/Winamp-Reconstructed](https://hardwaremack-prog.github.io/Winamp-Reconstructed/)** and it plays right there in your browser window. Your songs still stay on your computer; the page just reads them locally.
+
+**Or keep your own copy:**
 
 1. Download **[`winamp16.html`](winamp16.html)** (or `index.html`, they're the same file).
 2. Double-click it to open it in Chrome, Edge, Firefox or Safari.
